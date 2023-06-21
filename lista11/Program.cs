@@ -123,7 +123,6 @@ namespace Lista11PR2
             {
                 if (vet[i] % 2 != 0 && vet[i] % 3 != 0 && vet[i] % 5 != 0)
                 {
-                    Console.WriteLine("o número digitado é um número primo.");
                     Console.WriteLine("números primos {0}", vet[i]);
 
                 }
